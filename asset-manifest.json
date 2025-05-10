@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danish-numbers/static/css/main.1a74e440.css",
+    "main.js": "/danish-numbers/static/js/main.4da67039.js",
+    "static/js/453.e96a3397.chunk.js": "/danish-numbers/static/js/453.e96a3397.chunk.js",
+    "index.html": "/danish-numbers/index.html",
+    "main.1a74e440.css.map": "/danish-numbers/static/css/main.1a74e440.css.map",
+    "main.4da67039.js.map": "/danish-numbers/static/js/main.4da67039.js.map",
+    "453.e96a3397.chunk.js.map": "/danish-numbers/static/js/453.e96a3397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a74e440.css",
+    "static/js/main.4da67039.js"
+  ]
+}
